@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Davi Garutti Diniz
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Davi Garutti Diniz, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -16,76 +13,86 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** Davi Garutti Diniz
+- **Location:** Resende, RJ, Brazil (remote-only; will not relocate to Brazil's Northeast or North regions)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
+  | Portuguese | Native |
+  | English | Advanced (C1) / Full Professional |
   <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
   working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
   undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
   lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
   04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+- **CV language:** Both Portuguese and English are maintained. Default to Portuguese for Brazilian companies/postings, English for international or English-language postings; ask if genuinely ambiguous.
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Employed (Junior Full Stack Developer at Develcode Informática), actively seeking new opportunities
+- **LinkedIn headline:** "Software Engineer | Full-Stack (React, TypeScript & Java) | FIRST Alumni"
 
 ### Education
 <!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **B.Sc. in Software Engineering (in progress)** (2024-2027, expected) - Associação Educacional Dom Bosco (AEDB)
+- **Systems Development Technician** (2021-2023) - FIRJAN SENAI Resende
 
 ### Professional Experience
 <!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Junior Full Stack Developer — React.js & Python** (Sep 2025 - Present) - **Develcode Informática** (Remote)
+  - Architected and maintained 3+ full-stack web applications (React.js, Next.js, TypeScript, Python)
+  - Engineered 2 RAG pipelines integrating LLMs (OpenAI, Mistral, Claude), improving AI response accuracy ~40%
+  - Reduced average API response time ~35% via FastAPI optimization; maintained ~90% test coverage
+- **Frontend Intern** (Jun 2024 - Sep 2025) - **Develcode Informática** (Remote)
+  - Built responsive React.js interfaces for a delivery platform across 3+ product features
+  - Resolved 20+ front-end bugs over 15 months, reducing the open defect backlog ~40%
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** React.js, Next.js, TypeScript, JavaScript, Python, FastAPI, Node.js
+- **Secondary:** Java, Spring Boot, Angular, MySQL, PostgreSQL, MongoDB, AWS (EC2/S3/VPC/ELB)
+- **Domain:** LLM integration, RAG pipelines, prompt engineering, LangChain, LlamaIndex, semantic search
+- **Software:** Git, GitHub, GitLab, Jira, Jest, React Testing Library, Bun Test
 
 ### Certifications
 <!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Fundamentos do Spring Boot**
+- **Melhore sua experiência de desenvolvimento com TypeScript**
+- **Fundamentos de Java**
 
 ### Publications
 <!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+None yet.
 
 ### Awards
 <!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- Hacking.Rio - 1st Place, Best Code Category (2021)
+- SENAI Innovation Grand Prix - 1st Place, Textile Category (2023)
+- FIRST Robotics - Dean's List Semi-Finalist (National), Rookie Inspiration Award (World Championship), Rookie All Star (National) (2023)
+- FIRA Robotics - 3rd Place, Mission Impossible, Germany
 
 ### Behavioral Profile
 <!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+No formal assessment on file (PI/DISC/Myers-Briggs). *[Inferred from LinkedIn About - review before relying on this]*
+- **Competitive drive under pressure** - repeated 1st-place finishes in time-boxed competitions (48h hackathon, innovation grand prix)
+- **Pride in craft and accessibility** - self-describes as passionate about turning ideas into functional, accessible digital solutions
+- **Strengths:** Full-stack delivery, fast LLM/AI tooling adoption, thrives in Agile team settings
+- **Growth areas:** [YOUR_GROWTH_AREAS] <!-- not yet specified -->
+- **Thrives in:** Agile teams, AI-forward engineering work, time-boxed/competitive challenges
 
 ### What Excites You
 <!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Working with generative AI: LLM integration, RAG, prompt engineering
+- System architecture and product-facing development
+- Mentoring
 
 ### Target Sectors
 <!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Software / AI engineering: open to any sector, no specific target companies yet
+- Roles kept open across Full Stack, AI Engineering, LLM Engineering, and Prompt Engineering / "AI-assisted development"
 
 ### Deal-breakers
 <!-- Hard constraints on job search. Language requirements are handled separately and
 automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Remote-only; will not relocate to Brazil's Northeast or North regions
+- Must be CLT (formal employment contract) - PJ/contractor-only offers are excluded
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

@@ -39,6 +39,58 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 <!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
 
+## STAR Candidates (Complete Manually)
+
+### RAG pipeline accuracy improvement at Develcode
+**Source:** CV - Junior Full Stack Developer, Develcode Informática
+**What happened:** Engineered 2 RAG pipelines integrating LLMs (OpenAI, Mistral, Claude) with organizational data sources, improving AI response accuracy by ~40% over baseline.
+**Why it matters:** AI/LLM engineering questions, technical problem-solving, measurable-impact questions
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### API performance optimization via FastAPI
+**Source:** CV - Junior Full Stack Developer, Develcode Informática
+**What happened:** Designed and exposed REST APIs via FastAPI, reducing average API response time by ~35% through optimized query design, route architecture, and caching strategies.
+**Why it matters:** Backend/systems design questions, performance optimization, ownership questions
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Hacking.Rio 2021 - 1st Place, Best Code Category
+**Source:** CV / LinkedIn - Awards
+**What happened:** Developed a winning solution under 48-hour hackathon constraints, placing 1st in the Best Code category.
+**Why it matters:** Working under pressure/deadlines, teamwork, initiative questions
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### FIRST Robotics competition software
+**Source:** CV / LinkedIn - Awards
+**What happened:** Engineered competition software using LEGO Mindstorms EV3 and Python; earned Dean's List Semi-Finalist (National), Rookie Inspiration Award (World Championship), and Rookie All Star (National).
+**Why it matters:** Teamwork under competitive pressure, technical + non-technical stakeholder collaboration, "tell me about a team achievement" questions
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Frontend defect backlog reduction
+**Source:** CV - Frontend Intern, Develcode Informática
+**What happened:** Diagnosed and resolved 20+ front-end bugs over 15 months, reducing the open defect backlog by approximately 40%.
+**Why it matters:** Debugging methodology, ownership as a junior/intern, "biggest technical challenge" questions
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
 ## Common Tough Questions
 
 ### "Why did you leave [previous company]?"

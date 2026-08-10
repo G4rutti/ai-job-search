@@ -60,9 +60,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** React.js, Next.js, TypeScript/JavaScript, Python, FastAPI, Node.js, LLM integration, RAG pipelines, LangChain, LlamaIndex, prompt engineering, REST API design, testing (Jest, React Testing Library, TDD)
+**Moderate match areas:** Java, Spring Boot, Angular, AWS (EC2/S3/VPC/ELB), MongoDB, relational DB design (MySQL/PostgreSQL)
+**Weak match areas:** ML model training/research (as opposed to LLM integration), native mobile development, large-scale DevOps/SRE/infrastructure
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -74,9 +74,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Full-stack web development (React.js/Next.js + Python/FastAPI or Node.js), AI/LLM integration and RAG pipeline engineering
+**Moderate:** Backend-only or frontend-only roles that isolate one side of the stack; Java/Spring Boot roles
+**Entry-level:** Anything senior/lead - candidate is currently a junior developer (~2 years experience) still completing a B.Sc.
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -107,19 +107,20 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Keep growing as a Full Stack Developer (React.js/Next.js + Python/Node.js)
+- Move toward AI Engineering, LLM Engineering, and Prompt Engineering roles - the strongest and fastest-growing part of the current experience
+- Stay open to emerging "AI-assisted development" ("vibe coding") roles as that role type matures in the market
+- All of the above are open simultaneously; do not narrow to one without discussing with the candidate first
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
+- Tasks that energize: working with generative AI (LLM integration, RAG, prompt engineering), system architecture, mentoring, product-facing development
+- Tasks that drain: [YOUR_DRAINING_TASKS] <!-- not yet specified, ask if it becomes relevant -->
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Requires CLT (formal employment contract); PJ/contractor-only offers are a deal-breaker
+- **Flexibility**: Remote-only; will not relocate to Brazil's Northeast or North regions
+- **Professional development**: Prioritizes roles that build AI/LLM engineering skills alongside full-stack work
 
 ### 6. Salary Benchmark (Optional)
 

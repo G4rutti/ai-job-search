@@ -8,7 +8,7 @@ framework_version: 1.0.0
 <!-- You can use results from PI, DISC, Myers-Briggs, StrengthsFinder, or a self-assessment -->
 
 ## Overview
-[YOUR_NAME]'s behavioral assessment identifies them as a **[PROFILE_TYPE]** pattern. [1-2 SENTENCE_SUMMARY].
+Davi Garutti Diniz's behavioral assessment is not yet formalized (no PI/DISC/Myers-Briggs results on file). *[Inferred from LinkedIn About - review before relying on this]*: driven by turning ideas into functional, accessible digital solutions; strong track record thriving under high-pressure, time-boxed competitive settings (48-hour hackathons, national/international robotics championships).
 
 ## Core Behavioral Drives
 
@@ -23,6 +23,8 @@ framework_version: 1.0.0
 - **[BEHAVIOR_1]:** [DESCRIPTION]
 - **[BEHAVIOR_2]:** [DESCRIPTION]
 - **[BEHAVIOR_3]:** [DESCRIPTION]
+- *[Inferred from LinkedIn About - review before relying on this]* **Competitive drive under pressure:** repeated top placements in time-boxed competitions - 1st place at Hacking.Rio 2021 (48-hour hackathon), 1st place at SENAI Innovation Grand Prix 2023, multiple national/international robotics awards (FIRST Robotics, FIRA)
+- *[Inferred from LinkedIn About - review before relying on this]* **Pride in craft and accessibility:** self-describes as passionate about turning ideas into functional, accessible digital solutions
 
 ## How You Work Best
 - [ENVIRONMENT_PREFERENCE_1]

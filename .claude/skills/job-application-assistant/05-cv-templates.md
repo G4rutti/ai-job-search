@@ -116,11 +116,11 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 **Create 2-3 profile statement templates for your main role types:**
 
 <!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Full Stack Developer roles:**
+> Resourceful Junior Full Stack Developer with demonstrable expertise architecting resilient, scalable web applications in React.js, Next.js, TypeScript, and Python. Proven capacity to deliver production-grade AI solutions, encompassing LLM integrations and RAG pipelines, while sustaining ~90% test coverage. Proficient at cross-functional collaboration within Agile environments, synthesizing complex technical concepts for diverse stakeholders, and systematically elevating system quality through disciplined software-engineering principles.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For AI Engineer / LLM Engineer / Prompt Engineering roles:**
+> Full Stack Developer specializing in applied LLM engineering: production RAG pipelines, prompt engineering, and semantic search built on LangChain and LlamaIndex. Has shipped LLM integrations (OpenAI, Mistral, Claude) that measurably improved response accuracy (~40%) and cut irrelevant outputs (~25%), backed by a strong software-engineering foundation (React.js/Next.js/Python/FastAPI, ~90% test coverage) that carries AI features cleanly from prototype to production.
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 
