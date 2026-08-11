@@ -74,7 +74,7 @@ No formal assessment on file (PI/DISC/Myers-Briggs). *[Inferred from LinkedIn Ab
 - **Competitive drive under pressure** - repeated 1st-place finishes in time-boxed competitions (48h hackathon, innovation grand prix)
 - **Pride in craft and accessibility** - self-describes as passionate about turning ideas into functional, accessible digital solutions
 - **Strengths:** Full-stack delivery, fast LLM/AI tooling adoption, thrives in Agile team settings
-- **Growth areas:** [YOUR_GROWTH_AREAS] <!-- not yet specified -->
+- **Growth areas:** Deepening expertise in AI-integrated development - actively working on more projects that combine full-stack engineering with hands-on AI tooling (LLM integration, RAG, Claude Code-driven development) as a deliberate growth trajectory, alongside continued growth as a full-stack developer.
 - **Thrives in:** Agile teams, AI-forward engineering work, time-boxed/competitive challenges
 
 ### What Excites You
